@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+
+.list{
+    margin: 50px 50px;
+    padding: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
+.list-item{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.list1-item{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+#apiUsers2{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
